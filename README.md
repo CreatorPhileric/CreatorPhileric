@@ -4,15 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F7&center=true&vCenter=true&width=650&lines=Chess+Enthusiast+♟️;Occasional+Programmer+💻;Strategic+Thinker;Open+to+Collaborations+🚀" />
 </p>
 
----
-
 ## 🧠 About Me
 
 Hi! I'm Jason, a **Chess Enthusiast ♟️** and **Occasional Programmer 💻**.  
 
 Feel free to reach out for questions, concerns, or collaborations.
-
----
 
 ## 🚀 Languages & Tools
 
