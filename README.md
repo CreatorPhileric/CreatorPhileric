@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Jason
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F7&center=true&vCenter=true&width=650&lines=Chess+Enthusiast+♟️;Occasional+Programmer+💻;Strategic+Thinker;Open+to+Collaborations+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=3BA4F7&center=true&vCenter=true&width=650&lines=Chess+Enthusiast+♟️;Occasional+Programmer+💻;Philosophical+Thinker🧠;History+Enthusiast📜" />
 </p>
 
 ## 🧠 About Me
 
-Hi! I'm Jason, a **Chess Enthusiast ♟️** and **Occasional Programmer 💻**.  
+Hi! I'm Jason.  
 
 Feel free to reach out for questions, concerns, or collaborations.
 
